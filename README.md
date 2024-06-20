@@ -1,2 +1,2 @@
 # cs61c
-cs61c的所有学习资料（24 spring labs and projects) + 22 fall 课程
+cs61c 20fall 学习记录
